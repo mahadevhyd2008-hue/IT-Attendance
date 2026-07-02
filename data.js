@@ -230,11 +230,6 @@ const data = [
         "Name": "Ralabanda prasanna"
     },
     {
-        "Id": "25911A1247",
-        "Section": "IT-A",
-        "Name": "RAMAVATH ARJUN"
-    },
-    {
         "Id": "25911A1248",
         "Section": "IT-A",
         "Name": "RAMDHARE.RAM"
@@ -248,11 +243,6 @@ const data = [
         "Id": "25911A1250",
         "Section": "IT-A",
         "Name": "SABHAVATH VENKAT TEJA"
-    },
-    {
-        "Id": "25911A1251",
-        "Section": "IT-A",
-        "Name": "SADIYA BEGUM"
     },
     {
         "Id": "25911A1252",
@@ -393,11 +383,6 @@ const data = [
         "Id": "25911A1279",
         "Section": "IT-B",
         "Name": "Dara.sandhya"
-    },
-    {
-        "Id": "25911A1280",
-        "Section": "IT-B",
-        "Name": "DEEPAK BIRADR"
     },
     {
         "Id": "25911A1281",
