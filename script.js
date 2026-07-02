@@ -80,19 +80,20 @@ function display() {
         let entry;
 
         if (id === '21911A12B8') {
-    entry = '219-' + id.slice(8, 10);
-} else if (prefix === '249' && type === '1') {
-    entry = `${id.slice(8, 10)}`;
-} else if (prefix === '239') {
-    entry = `23-${id.slice(8, 10)}`;
-} else if (prefix === '249' && type === '5') {
-    entry = `24LE-${id.slice(8, 10)}`;
-} else if (prefix === '219') {
-    entry = `21-${id.slice(8, 10)}`;   // ✅ new condition for 21 series
-} else {
-    entry = `LE${id.slice(8, 10)}`;
-}
-
+            entry = '219-' + id.slice(8, 10);
+        } else if (prefix === '249' && type === '1') {
+            entry = `${id.slice(8, 10)}`;
+        } else if (prefix === '239') {
+            entry = `23-${id.slice(8, 10)}`;
+        } else if (prefix === '249' && type === '5') {
+            entry = `24LE-${id.slice(8, 10)}`;
+        } else if (prefix === '219') {
+            entry = `21-${id.slice(8, 10)}`;
+        } else if (prefix === '259') {
+            entry = `25-${id.slice(8, 10)}`;   // ✅ new condition for 25 series (259...)
+        } else {
+            entry = `LE${id.slice(8, 10)}`;
+        }
 
         if (withNames) entry += ` - ${name}`;
         if (isPresent) {
@@ -153,4 +154,3 @@ document.getElementById("reset").addEventListener("click", () => {
     document.getElementById("display").value = '';
     document.getElementById("display").style.borderColor = 'rgb(165, 165, 165)';
 });
-
