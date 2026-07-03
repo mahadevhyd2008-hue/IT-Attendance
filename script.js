@@ -90,7 +90,7 @@ function display() {
         } else if (prefix === '219') {
             entry = `21-${id.slice(8, 10)}`;
         } else if (prefix === '259') {
-            entry = `25-${id.slice(8, 10)}`;   // ✅ new condition for 25 series (259...)
+            entry = `${id.slice(8, 10)}`;   // ✅ new condition for 25 series (259...)
         } else {
             entry = `LE${id.slice(8, 10)}`;
         }
