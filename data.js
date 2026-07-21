@@ -349,6 +349,11 @@ const data = [
         "Section": "IT-A",
         "Name": "GADAGOTTI THRINETHRA"
     },
+     {
+        "Id": "24911A1236",
+        "Section": "IT-A",
+        "Name": "MADIRE SAI KRISHNA"
+    },
     {
         "Id": "25911A1266",
         "Section": "IT-B",
@@ -694,6 +699,11 @@ const data = [
         "Section": "IT-B",
         "Name": "MUKKA RISHIKESH"
     },
+      {
+        "Id": "23911A1259",
+        "Section": "IT-B",
+        "Name": "THOTA YESHWANTH KUMAR"
+    },
     {
         "Id": "25911A12D1",
         "Section": "IT-C",
@@ -1028,7 +1038,17 @@ const data = [
         "Id": "26915A1217",
         "Section": "IT-C",
         "Name": "VUNYALA SAI VIGNESH"
-    }
+    },
+      {
+        "Id": "24911A1250",
+        "Section": "IT-C",
+        "Name": "RACCHA VIGNESH"
+    },
+      {
+        "Id": "24911A1204",
+        "Section": "IT-C",
+        "Name": "ATHELLI RAMACHANDRAIAH"
+    },
 ];
 
 export {data};
