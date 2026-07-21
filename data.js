@@ -315,6 +315,41 @@ const data = [
         "Name": "SURUGU SPOORTHI"
     },
     {
+        "Id":"26915A1201",
+        "Section":"IT-A",
+        "Name":"ARSID HASINI"
+    },
+    {
+        "Id":"26915A1202",
+        "Section":"IT-A",
+        "Name":"AYYABAVI MADHAN GOUD"
+    },
+    {
+        "Id":"26915A1203",
+        "Section":"IT-A",
+        "Name":"B BHARGAV"
+    },
+    {
+        "Id":"26915A1204",
+        "Section":"IT-A",
+        "Name":"BAIKANI MALLIKARJUN"
+    },
+    {
+        "Id": "26915A1205",
+        "Section": "IT-A",
+        "Name": "CHERLAKOLA RAGHAVENDHAR REDDY"
+    },
+    {
+        "Id": "26915A1206",
+        "Section": "IT-A",
+        "Name": "DESHAGANI VINAY"
+    },
+    {
+        "Id": "26915A1207",
+        "Section": "IT-A",
+        "Name": "GADAGOTTI THRINETHRA"
+    },
+    {
         "Id": "25911A1266",
         "Section": "IT-B",
         "Name": "AMANAGANTI AMULYA"
@@ -635,6 +670,31 @@ const data = [
         "Name": "Guguloth Anusha"
     },
     {
+        "Id": "26915A1208",
+        "Section": "IT-B",
+        "Name": "GADDAM SIRI"
+    },
+    {
+        "Id": "26915A1209",
+        "Section": "IT-B",
+        "Name": "KAPU SRINATH"
+    },
+    {
+        "Id": "26915A1210",
+        "Section": "IT-B",
+        "Name": "KASOJU VIJAY"
+    },
+    {
+        "Id": "26915A1211",
+        "Section": "IT-B",
+        "Name": "KOYYALA VEDHAVYAS"
+    },
+    {
+        "Id": "26915A1212",
+        "Section": "IT-B",
+        "Name": "MUKKA RISHIKESH"
+    },
+    {
         "Id": "25911A12D1",
         "Section": "IT-C",
         "Name": "Aakaram akshitha"
@@ -943,6 +1003,31 @@ const data = [
         "Id": "25911A12K2",
         "Section": "IT-C",
         "Name": "Yenda charith"
+    },
+    {
+        "Id": "26915A1213",
+        "Section": "IT-C",
+        "Name": "NACHIKETA REDDY PEDDIREDDY"
+    },
+    {
+        "Id": "26915A1214",
+        "Section": "IT-C",
+        "Name": "PADASANABOINA ASHWITHA"
+    },
+    {
+        "Id": "26915A1215",
+        "Section": "IT-C",
+        "Name": "PAVARTHULA HEMANTH"
+    },
+    {
+        "Id": "26915A1216",
+        "Section": "IT-C",
+        "Name": "PUTTAPAGA BALARAJU"
+    },
+    {
+        "Id": "26915A1217",
+        "Section": "IT-C",
+        "Name": "VUNYALA SAI VIGNESH"
     }
 ];
 
