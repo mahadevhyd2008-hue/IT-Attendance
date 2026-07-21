@@ -81,16 +81,16 @@ function display() {
 
         if (id === '21911A12B8') {
             entry = '219-' + id.slice(8, 10);
-        } else if (prefix === '249' && type === '1') {
-            entry = `${id.slice(8, 10)}`;
+        } else if (prefix === '249') {
+            // Updated: roll numbers starting with 249 now output with '24-' prefix
+            entry = `24-${id.slice(8, 10)}`;
         } else if (prefix === '239') {
+            // Updated: roll numbers starting with 239 now output with '23-' prefix
             entry = `23-${id.slice(8, 10)}`;
-        } else if (prefix === '249' && type === '5') {
-            entry = `24LE-${id.slice(8, 10)}`;
         } else if (prefix === '219') {
             entry = `21-${id.slice(8, 10)}`;
         } else if (prefix === '259') {
-            entry = `${id.slice(8, 10)}`;   // ✅ new condition for 25 series (259...)
+            entry = `${id.slice(8, 10)}`;   
         } else {
             entry = `LE${id.slice(8, 10)}`;
         }
