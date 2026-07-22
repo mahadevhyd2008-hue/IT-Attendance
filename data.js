@@ -344,11 +344,6 @@ const data = [
         "Section": "IT-A",
         "Name": "DESHAGANI VINAY"
     },
-    {
-        "Id": "26915A1207",
-        "Section": "IT-A",
-        "Name": "GADAGOTTI THRINETHRA"
-    },
      {
         "Id": "24911A1236",
         "Section": "IT-A",
