@@ -455,11 +455,6 @@ const data = [
         "Name": "JAKKANI SHIVANI"
     },
     {
-        "Id": "25911A1288",
-        "Section": "IT-B",
-        "Name": "K Muneesh Yadav"
-    },
-    {
         "Id": "25911A1289",
         "Section": "IT-B",
         "Name": "KALYANAM NAVYA REDDY"
